@@ -1,0 +1,17 @@
+
+body
+{
+  color: magenta;
+  background: cyan;
+  text-align: center;
+}
+span
+{
+  font-size: 30px;
+}
+
+div{
+  text-align: center;
+  color: aqua;
+  background-color: orangered;
+}
